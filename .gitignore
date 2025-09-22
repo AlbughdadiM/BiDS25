@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+chroma_demo/
+eurosat-l/
+geo_moe_mae/
+*.npz
+.DS_Store
+__pycache__/
