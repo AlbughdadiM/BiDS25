@@ -14,4 +14,4 @@ This repository contains the code of the EO4EU BiDS2025 tutorial on lightweight 
 The tutorial is implemented in a Jupyter notebook and can be run locally or on Google Colab. The notebook is designed to be interactive, allowing users to modify parameters and experiment with different settings. It can also be run on Pangeo infrastructure.
 
 > [!NOTE]  
-> This notebook is also integrated with <ttps://github.com/pangeo-data/pangeo-bids25>.
+> This notebook is also integrated with <https://github.com/pangeo-data/pangeo-bids25>.
